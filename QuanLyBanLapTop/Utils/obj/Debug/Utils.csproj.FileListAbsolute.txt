@@ -1,0 +1,6 @@
+E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\Utils\bin\Debug\Utils.dll
+E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\Utils\bin\Debug\Utils.pdb
+E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\Utils\obj\Debug\Utils.dll
+E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\Utils\obj\Debug\Utils.pdb

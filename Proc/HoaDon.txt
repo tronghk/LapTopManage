@@ -1,0 +1,47 @@
+use QuanLyBanLapTop
+go
+create proc Proc_addHoaDon
+@idBill int,
+@dateBill date,
+@sumPay float,
+@typePay nvarchar(50),
+@discountMoney float,
+@pay float ,
+@status nvarchar(50),
+@idEmployee nvarchar(50),
+@idCustomer nvarchar(50)
+as 
+begin
+insert into [dbo].[Tbl_HoaDon](idBill, dateBill, sumPay, typePay, discountMoney, pay, status, idEmployee, idCustomer)
+ values (@idBill, @dateBill,@sumPay, @typePay, @discountMoney, @pay, @status, @idEmployee, @idCustomer)
+ end
+
+ go
+create proc Proc_updateHoaDon
+@idBill int,
+@dateBill date,
+@sumPay float,
+@typePay nvarchar(50),
+@discountMoney float,
+@pay float ,
+@status nvarchar(50),
+@idEmployee nvarchar(50),
+@idCustomer nvarchar(50)
+
+as
+begin
+	UPDATE tbl_HoaDon
+	SET  dateBill=@dateBill, sumPay=@sumPay, 
+		typePay=@typePay, discountMoney=@discountMoney, pay=@pay, 
+		status=@status, idEmployee=@idEmployee, idCustomer=@idCustomer
+	WHERE idBill = @idBill
+end
+
+go
+create proc Proc_deleteHoaDon
+@idBill int
+as
+begin
+	delete from Tbl_HoaDon
+	where idBill=@idBill
+end

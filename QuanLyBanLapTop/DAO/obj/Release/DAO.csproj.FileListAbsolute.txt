@@ -1,0 +1,9 @@
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\bin\Release\DAO.dll
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\bin\Release\DAO.pdb
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\bin\Release\DTO.dll
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\bin\Release\DTO.pdb
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\obj\Release\DAO.csproj.AssemblyReference.cache
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\obj\Release\DAO.csproj.CopyComplete
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\obj\Release\DAO.dll
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\obj\Release\DAO.pdb

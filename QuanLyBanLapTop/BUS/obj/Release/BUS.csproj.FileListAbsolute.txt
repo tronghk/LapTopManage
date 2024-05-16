@@ -1,0 +1,11 @@
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\bin\Release\BUS.dll
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\bin\Release\BUS.pdb
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\bin\Release\DAO.dll
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\bin\Release\DTO.dll
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\bin\Release\DAO.pdb
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\bin\Release\DTO.pdb
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\obj\Release\BUS.csproj.CopyComplete
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\obj\Release\BUS.dll
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\obj\Release\BUS.pdb

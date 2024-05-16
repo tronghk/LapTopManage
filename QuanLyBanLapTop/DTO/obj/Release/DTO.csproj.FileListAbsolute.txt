@@ -1,0 +1,6 @@
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DTO\bin\Release\DTO.dll
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DTO\bin\Release\DTO.pdb
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DTO\obj\Release\DTO.dll
+E:\Workspace\C#\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DTO\obj\Release\DTO.pdb
