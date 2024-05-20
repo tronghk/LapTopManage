@@ -1,4 +1,4 @@
-
+create database QuanLyBanLapTop
 GO
 CREATE TABLE [dbo].[Tbl_ChiTietHoaDon](
 	[quantityProduct] [int] NULL,
@@ -692,7 +692,7 @@ CREATE PROC [dbo].[Proc_deleteDetailReceipt]
 @idCoupon INT
 as
 BEGIN 
-DELETE FROM dbo.Tbl_ChiTietNhapKho WHERE idReceipt = @idReceipt AND idCoupon = @idCoupon
+DELETE FROM dbo.Tbl_ChiTietNhapKho WHERE idReceipt = @idReceipt 
 END 
 
 GO
@@ -926,8 +926,8 @@ CREATE PROC [dbo].[Proc_updateDetailReceipt]
 as
 BEGIN 
 UPDATE dbo.Tbl_ChiTietNhapKho
-SET idReceipt = @idReceipt, idCoupon = @idCoupon, quantityRequest = @quantityRequest, quantityActual = @quantityActual, unitPrice = @unitPrice, intoMoney = @intoMoney
-WHERE idReceipt = @idReceipt AND idCoupon = @idCoupon
+SET idReceipt = @idReceipt , quantityRequest = @quantityRequest, quantityActual = @quantityActual, unitPrice = @unitPrice, intoMoney = @intoMoney
+WHERE idReceipt = @idReceipt
 END
 GO
 /****** Object:  StoredProcedure [dbo].[Proc_updateEmployee]    Script Date: 10/25/2022 8:28:13 PM ******/
@@ -1188,7 +1188,8 @@ INSERT INTO Tbl_Quyen VALUES
 
 ---   7) Dữ liệu bảng tài khoản   ---
 INSERT INTO Tbl_TaiKhoan VALUES 
-('admin', N'admin', '1234', 7001)
+('admin', N'admin', '1234', 7001),
+('staff', N'staff', '1234', 7002)
 
 
 ---	  8) Dữ liệu bảng nhân viên   ---

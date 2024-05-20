@@ -19,7 +19,7 @@ namespace DAO
             SqlCommand sqlCommand = new SqlCommand();
             sqlCommand.Connection = conn.Conn;
             string query = @"insert into Tbl_ChiTietNhapKho (idReceipt, quantityRequest, quantityActual, unitPrice, intoMoney, idProduct)
-                values (@idReceipt, @idCoupon, @quantityRequest, @quantityActual, @unitPrice, @intoMoney, @idProduct)";
+                values (@idReceipt, @quantityRequest, @quantityActual, @unitPrice, @intoMoney, @idProduct)";
             sqlCommand.CommandText = query;
             sqlCommand.Parameters.AddWithValue("@idReceipt", ctnk.IdReceipt);
             sqlCommand.Parameters.AddWithValue("@quantityRequest", ctnk.QuantityRequest);

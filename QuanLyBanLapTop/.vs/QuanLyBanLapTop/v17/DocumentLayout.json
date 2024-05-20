@@ -1,0 +1,1361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dao\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|e:\\workspace\\c#\\myproject\\doanc-_quanlybanlaptop\\quanlybanlaptop\\dao\\chitietnhapkhodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\chitietnhapkhodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|e:\\workspace\\c#\\myproject\\doanc-_quanlybanlaptop\\quanlybanlaptop\\dto\\chitietnhapkhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|solutionrelative:dto\\chitietnhapkhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|e:\\workspace\\c#\\myproject\\doanc-_quanlybanlaptop\\quanlybanlaptop\\dto\\chitietphieuyeucaunhaphangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|solutionrelative:dto\\chitietphieuyeucaunhaphangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|e:\\workspace\\c#\\myproject\\doanc-_quanlybanlaptop\\quanlybanlaptop\\dto\\chitiethoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|solutionrelative:dto\\chitiethoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|e:\\workspace\\c#\\myproject\\doanc-_quanlybanlaptop\\quanlybanlaptop\\dao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\employeemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\employeemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\customermanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\customermanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formauthenemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formauthenemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formauthenemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formauthenemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formcreatedetailpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formcreatedetailpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formcreatedetailreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formcreatedetailreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\forminfoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\forminfoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\forminfopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\forminfopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\billmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\billmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\utilsgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\utilsgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formproducttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formproducttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dao\\sanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\sanphamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dto\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|solutionrelative:dto\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formrankstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formrankstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dto\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|solutionrelative:dto\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dao\\taikhoandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\taikhoandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formrankstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formrankstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\productstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\productstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\purchaseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\purchaseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\paymentorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\paymentorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\forminfopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\forminfopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\productmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\productmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\productsupply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\productsupply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\typeproductmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\typeproductmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\forminfoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\forminfoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\promotionmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\promotionmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\importproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\importproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dto\\phieuyeucaunhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|solutionrelative:dto\\phieuyeucaunhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formcreatedetailreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formcreatedetailreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formproductmanufacture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formproductmanufacture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formmainmenu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formmainmenu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formmainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formmainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formcreatedetailpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formcreatedetailpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dao\\nhacungcapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\nhacungcapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\suppliermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\suppliermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dao\\chitietphieuyeucaunhaphangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\chitietphieuyeucaunhaphangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dao\\phieuyeucaunhaphangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\phieuyeucaunhaphangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dto\\nhacungcapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|solutionrelative:dto\\nhacungcapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dao\\hoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\hoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dao\\khuyenmaidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\khuyenmaidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dao\\quyendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\quyendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\forminfocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\forminfocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\forminfocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\forminfocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dto\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|solutionrelative:dto\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\export.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\export.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F7EE23-729B-469F-BBD3-00A79163506E}|Utils\\Utils.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\utils\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F7EE23-729B-469F-BBD3-00A79163506E}|Utils\\Utils.csproj|solutionrelative:utils\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\bus\\productbrandmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75209317-E173-45B6-9A40-8DD3A06B8AF8}|BUS\\BUS.csproj|solutionrelative:bus\\productbrandmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F7EE23-729B-469F-BBD3-00A79163506E}|Utils\\Utils.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\utils\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F7EE23-729B-469F-BBD3-00A79163506E}|Utils\\Utils.csproj|solutionrelative:utils\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formproductmanufacture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formproductmanufacture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formproducttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formproducttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\gui\\formproducttype.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4DC4F-1BF4-418D-8385-EF6910721C7D}|GUI\\GUI.csproj|solutionrelative:gui\\formproducttype.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dao\\chitiethoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\chitiethoadondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dto\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|solutionrelative:dto\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dto\\nguoidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725B557-1A18-435F-8F04-342BB1FE47CC}|DTO\\DTO.csproj|solutionrelative:dto\\nguoidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\dao\\danhmuclaptopdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A12F743-958D-432F-83DA-A78F4BBAF889}|DAO\\DAO.csproj|solutionrelative:dao\\danhmuclaptopdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2146146375:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTietPhieuYeuCauNhapHangDTO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\ChiTietPhieuYeuCauNhapHangDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ChiTietPhieuYeuCauNhapHangDTO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\ChiTietPhieuYeuCauNhapHangDTO.cs",
+              "RelativeToolTip": "DTO\\ChiTietPhieuYeuCauNhapHangDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:07:59.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChiTietHoaDonDTO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\ChiTietHoaDonDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ChiTietHoaDonDTO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\ChiTietHoaDonDTO.cs",
+              "RelativeToolTip": "DTO\\ChiTietHoaDonDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:07:57.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChiTietNhapKhoDAO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\ChiTietNhapKhoDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ChiTietNhapKhoDAO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\ChiTietNhapKhoDAO.cs",
+              "RelativeToolTip": "DAO\\ChiTietNhapKhoDAO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:07:35.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\Connect.cs",
+              "RelativeDocumentMoniker": "DAO\\Connect.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\Connect.cs",
+              "RelativeToolTip": "DAO\\Connect.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwB8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormEmployee.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormEmployee.cs",
+              "RelativeDocumentMoniker": "GUI\\FormEmployee.cs",
+              "ToolTip": "F:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:57.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormStatistic.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormStatistic.cs",
+              "RelativeDocumentMoniker": "GUI\\FormStatistic.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormStatistic.cs",
+              "RelativeToolTip": "GUI\\FormStatistic.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAewDsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChiTietNhapKhoDTO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\ChiTietNhapKhoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ChiTietNhapKhoDTO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\ChiTietNhapKhoDTO.cs",
+              "RelativeToolTip": "DTO\\ChiTietNhapKhoDTO.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:08:00.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormEmployee.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormEmployee.cs",
+              "RelativeDocumentMoniker": "GUI\\FormEmployee.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormEmployee.cs",
+              "RelativeToolTip": "GUI\\FormEmployee.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAADwv+cAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:57.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeManage.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\EmployeeManage.cs",
+              "RelativeDocumentMoniker": "BUS\\EmployeeManage.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\EmployeeManage.cs",
+              "RelativeToolTip": "BUS\\EmployeeManage.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:57.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhanVienDAO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\NhanVienDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\NhanVienDAO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\NhanVienDAO.cs",
+              "RelativeToolTip": "DAO\\NhanVienDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:57.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerManage.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\CustomerManage.cs",
+              "RelativeDocumentMoniker": "BUS\\CustomerManage.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\CustomerManage.cs",
+              "RelativeToolTip": "BUS\\CustomerManage.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwDgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KhachHangDAO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\KhachHangDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\KhachHangDAO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\KhachHangDAO.cs",
+              "RelativeToolTip": "DAO\\KhachHangDAO.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAmwC4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:57.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormCustomer.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormCustomer.cs",
+              "RelativeDocumentMoniker": "GUI\\FormCustomer.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormCustomer.cs",
+              "RelativeToolTip": "GUI\\FormCustomer.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAwwNIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormCustomer.cs",
+              "RelativeDocumentMoniker": "GUI\\FormCustomer.cs",
+              "ToolTip": "F:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormBill.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormBill.cs",
+              "RelativeDocumentMoniker": "GUI\\FormBill.cs",
+              "ToolTip": "F:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormAuthenEmployee.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormAuthenEmployee.cs",
+              "RelativeDocumentMoniker": "GUI\\FormAuthenEmployee.cs",
+              "ToolTip": "F:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormAuthenEmployee.cs*",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormAuthenEmployee.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormAuthenEmployee.cs",
+              "RelativeDocumentMoniker": "GUI\\FormAuthenEmployee.cs",
+              "ToolTip": "F:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormAuthenEmployee.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormCreateDetailPromotion.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormCreateDetailPromotion.cs",
+              "RelativeDocumentMoniker": "GUI\\FormCreateDetailPromotion.cs",
+              "ToolTip": "F:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormCreateDetailPromotion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormCreateDetailReceipt.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormCreateDetailReceipt.cs",
+              "RelativeDocumentMoniker": "GUI\\FormCreateDetailReceipt.cs",
+              "ToolTip": "F:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormCreateDetailReceipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormInfoEmployee.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormInfoEmployee.cs",
+              "RelativeDocumentMoniker": "GUI\\FormInfoEmployee.cs",
+              "ToolTip": "F:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormInfoEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormInfoPayment.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormInfoPayment.cs",
+              "RelativeDocumentMoniker": "GUI\\FormInfoPayment.cs",
+              "ToolTip": "F:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormInfoPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormMainMenu.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormMainMenu.cs",
+              "RelativeDocumentMoniker": "GUI\\FormMainMenu.cs",
+              "ToolTip": "F:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormMainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormProduct.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProduct.cs",
+              "RelativeDocumentMoniker": "GUI\\FormProduct.cs",
+              "ToolTip": "F:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormProduct.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProduct.cs",
+              "RelativeDocumentMoniker": "GUI\\FormProduct.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProduct.cs",
+              "RelativeToolTip": "GUI\\FormProduct.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAwwJUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BillManage.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\BillManage.cs",
+              "RelativeDocumentMoniker": "BUS\\BillManage.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\BillManage.cs",
+              "RelativeToolTip": "BUS\\BillManage.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormBill.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormBill.cs",
+              "RelativeDocumentMoniker": "GUI\\FormBill.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormBill.cs",
+              "RelativeToolTip": "GUI\\FormBill.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAswJYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UtilsGUI.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\UtilsGUI.cs",
+              "RelativeDocumentMoniker": "GUI\\UtilsGUI.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\UtilsGUI.cs",
+              "RelativeToolTip": "GUI\\UtilsGUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormPromotion.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormPromotion.cs",
+              "RelativeDocumentMoniker": "GUI\\FormPromotion.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormPromotion.cs [Design]",
+              "RelativeToolTip": "GUI\\FormPromotion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormProductType.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProductType.cs",
+              "RelativeDocumentMoniker": "GUI\\FormProductType.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProductType.cs [Design]",
+              "RelativeToolTip": "GUI\\FormProductType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormSell.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormSell.cs",
+              "RelativeDocumentMoniker": "GUI\\FormSell.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormSell.cs [Design]",
+              "RelativeToolTip": "GUI\\FormSell.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SanPhamDAO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\SanPhamDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\SanPhamDAO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\SanPhamDAO.cs",
+              "RelativeToolTip": "DAO\\SanPhamDAO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwIIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormSell.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormSell.cs",
+              "RelativeDocumentMoniker": "GUI\\FormSell.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormSell.cs",
+              "RelativeToolTip": "GUI\\FormSell.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAIA2wGUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\SanPham.cs",
+              "RelativeDocumentMoniker": "DTO\\SanPham.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\SanPham.cs",
+              "RelativeToolTip": "DTO\\SanPham.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvyoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormRankStatistic.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormRankStatistic.cs",
+              "RelativeDocumentMoniker": "GUI\\FormRankStatistic.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormRankStatistic.cs [Design]",
+              "RelativeToolTip": "GUI\\FormRankStatistic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\KhachHang.cs",
+              "RelativeDocumentMoniker": "DTO\\KhachHang.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\KhachHang.cs",
+              "RelativeToolTip": "DTO\\KhachHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TaiKhoanDAO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\TaiKhoanDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\TaiKhoanDAO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\TaiKhoanDAO.cs",
+              "RelativeToolTip": "DAO\\TaiKhoanDAO.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwDQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\Login.cs",
+              "RelativeDocumentMoniker": "BUS\\Login.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\Login.cs",
+              "RelativeToolTip": "BUS\\Login.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormStatistic.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormStatistic.cs",
+              "RelativeDocumentMoniker": "GUI\\FormStatistic.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormStatistic.cs [Design]",
+              "RelativeToolTip": "GUI\\FormStatistic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormRankStatistic.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormRankStatistic.cs",
+              "RelativeDocumentMoniker": "GUI\\FormRankStatistic.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormRankStatistic.cs",
+              "RelativeToolTip": "GUI\\FormRankStatistic.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAACsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductStatistics.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\ProductStatistics.cs",
+              "RelativeDocumentMoniker": "BUS\\ProductStatistics.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\ProductStatistics.cs",
+              "RelativeToolTip": "BUS\\ProductStatistics.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowEwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormWareHouse.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormWareHouse.cs",
+              "RelativeDocumentMoniker": "GUI\\FormWareHouse.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormWareHouse.cs [Design]",
+              "RelativeToolTip": "GUI\\FormWareHouse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormPromotion.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormPromotion.cs",
+              "RelativeDocumentMoniker": "GUI\\FormPromotion.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormPromotion.cs",
+              "RelativeToolTip": "GUI\\FormPromotion.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAtwHkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PurchaseProduct.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\PurchaseProduct.cs",
+              "RelativeDocumentMoniker": "BUS\\PurchaseProduct.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\PurchaseProduct.cs",
+              "RelativeToolTip": "BUS\\PurchaseProduct.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAAAIwBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormInfoPayment.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormInfoPayment.cs",
+              "RelativeDocumentMoniker": "GUI\\FormInfoPayment.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormInfoPayment.cs",
+              "RelativeToolTip": "GUI\\FormInfoPayment.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwLgAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PaymentOrders.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\PaymentOrders.cs",
+              "RelativeDocumentMoniker": "BUS\\PaymentOrders.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\PaymentOrders.cs",
+              "RelativeToolTip": "BUS\\PaymentOrders.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAowG0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProductManage.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\ProductManage.cs",
+              "RelativeDocumentMoniker": "BUS\\ProductManage.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\ProductManage.cs",
+              "RelativeToolTip": "BUS\\ProductManage.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductSupply.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\ProductSupply.cs",
+              "RelativeDocumentMoniker": "BUS\\ProductSupply.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\ProductSupply.cs",
+              "RelativeToolTip": "BUS\\ProductSupply.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAewBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TypeProductManage.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\TypeProductManage.cs",
+              "RelativeDocumentMoniker": "BUS\\TypeProductManage.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\TypeProductManage.cs",
+              "RelativeToolTip": "BUS\\TypeProductManage.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FormInfoEmployee.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormInfoEmployee.cs",
+              "RelativeDocumentMoniker": "GUI\\FormInfoEmployee.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormInfoEmployee.cs",
+              "RelativeToolTip": "GUI\\FormInfoEmployee.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAvwI4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PromotionManage.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\PromotionManage.cs",
+              "RelativeDocumentMoniker": "BUS\\PromotionManage.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\PromotionManage.cs",
+              "RelativeToolTip": "BUS\\PromotionManage.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowBIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FormMainMenu.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormMainMenu.cs",
+              "RelativeDocumentMoniker": "GUI\\FormMainMenu.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormMainMenu.cs",
+              "RelativeToolTip": "GUI\\FormMainMenu.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAtwN8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ImportProduct.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\ImportProduct.cs",
+              "RelativeDocumentMoniker": "BUS\\ImportProduct.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\ImportProduct.cs",
+              "RelativeToolTip": "BUS\\ImportProduct.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAmwJ4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FormCreateDetailReceipt.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormCreateDetailReceipt.cs",
+              "RelativeDocumentMoniker": "GUI\\FormCreateDetailReceipt.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormCreateDetailReceipt.cs",
+              "RelativeToolTip": "GUI\\FormCreateDetailReceipt.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAgwEsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PhieuYeuCauNhapHang.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\PhieuYeuCauNhapHang.cs",
+              "RelativeDocumentMoniker": "DTO\\PhieuYeuCauNhapHang.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\PhieuYeuCauNhapHang.cs",
+              "RelativeToolTip": "DTO\\PhieuYeuCauNhapHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FormProductManufacture.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProductManufacture.cs",
+              "RelativeDocumentMoniker": "GUI\\FormProductManufacture.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProductManufacture.cs [Design]",
+              "RelativeToolTip": "GUI\\FormProductManufacture.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FormWareHouse.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormWareHouse.cs",
+              "RelativeDocumentMoniker": "GUI\\FormWareHouse.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormWareHouse.cs",
+              "RelativeToolTip": "GUI\\FormWareHouse.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAhwHwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "NhaCungCapDAO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\NhaCungCapDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\NhaCungCapDAO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\NhaCungCapDAO.cs",
+              "RelativeToolTip": "DAO\\NhaCungCapDAO.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAowGwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FormCreateDetailPromotion.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormCreateDetailPromotion.cs",
+              "RelativeDocumentMoniker": "GUI\\FormCreateDetailPromotion.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormCreateDetailPromotion.cs",
+              "RelativeToolTip": "GUI\\FormCreateDetailPromotion.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAlwF8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FormMainMenu.resx",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormMainMenu.resx",
+              "RelativeDocumentMoniker": "GUI\\FormMainMenu.resx",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormMainMenu.resx",
+              "RelativeToolTip": "GUI\\FormMainMenu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-20T02:59:58.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FormMainMenu.Designer.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormMainMenu.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\FormMainMenu.Designer.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormMainMenu.Designer.cs",
+              "RelativeToolTip": "GUI\\FormMainMenu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-20T02:59:58.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SupplierManager.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\SupplierManager.cs",
+              "RelativeDocumentMoniker": "BUS\\SupplierManager.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\SupplierManager.cs",
+              "RelativeToolTip": "BUS\\SupplierManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ChiTietPhieuYeuCauNhapHangDAO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\ChiTietPhieuYeuCauNhapHangDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ChiTietPhieuYeuCauNhapHangDAO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\ChiTietPhieuYeuCauNhapHangDAO.cs",
+              "RelativeToolTip": "DAO\\ChiTietPhieuYeuCauNhapHangDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "PhieuYeuCauNhapHangDAO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\PhieuYeuCauNhapHangDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\PhieuYeuCauNhapHangDAO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\PhieuYeuCauNhapHangDAO.cs",
+              "RelativeToolTip": "DAO\\PhieuYeuCauNhapHangDAO.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "NhaCungCapDTO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\NhaCungCapDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\NhaCungCapDTO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\NhaCungCapDTO.cs",
+              "RelativeToolTip": "DTO\\NhaCungCapDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "HoaDonDAO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\HoaDonDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\HoaDonDAO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\HoaDonDAO.cs",
+              "RelativeToolTip": "DAO\\HoaDonDAO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "QuyenDAO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\QuyenDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\QuyenDAO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\QuyenDAO.cs",
+              "RelativeToolTip": "DAO\\QuyenDAO.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "KhuyenMaiDAO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\KhuyenMaiDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\KhuyenMaiDAO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\KhuyenMaiDAO.cs",
+              "RelativeToolTip": "DAO\\KhuyenMaiDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FormInfoCustomer.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormInfoCustomer.cs",
+              "RelativeDocumentMoniker": "GUI\\FormInfoCustomer.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormInfoCustomer.cs",
+              "RelativeToolTip": "GUI\\FormInfoCustomer.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAlwJEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "FormInfoCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormInfoCustomer.cs",
+              "RelativeDocumentMoniker": "GUI\\FormInfoCustomer.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormInfoCustomer.cs [Design]",
+              "RelativeToolTip": "GUI\\FormInfoCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Login.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\Login.cs",
+              "RelativeToolTip": "GUI\\Login.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAawGsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Login.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "GUI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\NhanVien.cs",
+              "RelativeDocumentMoniker": "DTO\\NhanVien.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\NhanVien.cs",
+              "RelativeToolTip": "DTO\\NhanVien.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "export.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\export.cs",
+              "RelativeDocumentMoniker": "BUS\\export.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\export.cs",
+              "RelativeToolTip": "BUS\\export.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowHYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ProductBrandManagement.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\ProductBrandManagement.cs",
+              "RelativeDocumentMoniker": "BUS\\ProductBrandManagement.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\BUS\\ProductBrandManagement.cs",
+              "RelativeToolTip": "BUS\\ProductBrandManagement.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwIAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Number.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\Utils\\Number.cs",
+              "RelativeDocumentMoniker": "Utils\\Number.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\Utils\\Number.cs",
+              "RelativeToolTip": "Utils\\Number.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\Utils\\Phone.cs",
+              "RelativeDocumentMoniker": "Utils\\Phone.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\Utils\\Phone.cs",
+              "RelativeToolTip": "Utils\\Phone.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADgvxYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "FormProductManufacture.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProductManufacture.cs",
+              "RelativeDocumentMoniker": "GUI\\FormProductManufacture.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProductManufacture.cs",
+              "RelativeToolTip": "GUI\\FormProductManufacture.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAhwIAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "FormProductType.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProductType.cs",
+              "RelativeDocumentMoniker": "GUI\\FormProductType.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProductType.cs",
+              "RelativeToolTip": "GUI\\FormProductType.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAhwIEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-20T02:59:58.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "FormProductType.Designer.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProductType.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\FormProductType.Designer.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\GUI\\FormProductType.Designer.cs",
+              "RelativeToolTip": "GUI\\FormProductType.Designer.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwGkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-20T02:59:58.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ChiTietHoaDonDAO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\ChiTietHoaDonDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ChiTietHoaDonDAO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\ChiTietHoaDonDAO.cs",
+              "RelativeToolTip": "DAO\\ChiTietHoaDonDAO.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAawEQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\HoaDon.cs",
+              "RelativeDocumentMoniker": "DTO\\HoaDon.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\HoaDon.cs",
+              "RelativeToolTip": "DTO\\HoaDon.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAA3wFgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "NguoiDTO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\NguoiDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\NguoiDTO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DTO\\NguoiDTO.cs",
+              "RelativeToolTip": "DTO\\NguoiDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DanhMucLapTopDAO.cs",
+              "DocumentMoniker": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\DanhMucLapTopDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\DanhMucLapTopDAO.cs",
+              "ToolTip": "E:\\Workspace\\C#\\myProject\\DoAnC-_QuanLyBanLapTop\\QuanLyBanLapTop\\DAO\\DanhMucLapTopDAO.cs",
+              "RelativeToolTip": "DAO\\DanhMucLapTopDAO.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAswIIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:59:58.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

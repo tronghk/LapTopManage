@@ -29,7 +29,7 @@ namespace DAO
         {
             try
             {
-                string sConnect = @"Data Source=DESKTOP-2022XGS\SQLEXPRESS;Initial Catalog=QuanLyBanLapTop;Integrated Security=True;MultipleActiveResultSets=True";
+                string sConnect = @"Data Source=DESKTOP-KOGPVQA\SQLEXPRESS;Initial Catalog=QuanLyBanLapTop;Integrated Security=True;MultipleActiveResultSets=True";
                 this.conn = new SqlConnection(sConnect);
                
             }

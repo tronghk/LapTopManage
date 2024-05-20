@@ -56,7 +56,8 @@ namespace GUI
                     sum += float.Parse(sumMonth[(i*3-j).ToString()]);
                 a[i] = sum.ToString("0.0");
             }
-            tb_month.Rows.Add(a);
+            if(a.Length >0)
+                tb_month.Rows.Add(a);
         }
         public void setDataYear()
         {

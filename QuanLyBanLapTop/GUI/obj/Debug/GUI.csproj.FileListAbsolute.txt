@@ -63,12 +63,10 @@ E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\bin\Debug\B
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\bin\Debug\DTO.pdb
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\bin\Debug\DAO.pdb
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
-E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\obj\Debug\GUI.Login.resources
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\obj\Debug\GUI.Properties.Resources.resources
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
-E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\obj\Debug\GUI.csproj.CopyComplete
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\obj\Debug\GUI.exe
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\obj\Debug\GUI.pdb
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\bin\Debug\NPOI.OOXML.dll
@@ -260,3 +258,4 @@ E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\obj\Debug\G
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\obj\Debug\GUI.FormWareHouse.resources
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\bin\Debug\DocumentFormat.OpenXml.dll
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\GUI\obj\Debug\GUI.csproj.Up2Date

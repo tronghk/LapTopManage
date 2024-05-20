@@ -39,7 +39,6 @@ E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\bin\Debug\D
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\bin\Debug\DTO.pdb
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
-E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\obj\Debug\BUS.csproj.CopyComplete
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\obj\Debug\BUS.dll
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\obj\Debug\BUS.pdb
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\bin\Debug\Aspose.Cells.dll
@@ -64,3 +63,4 @@ E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\bin\Debug\N
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\bin\Debug\NPOI.OpenXmlFormats.pdb
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\bin\Debug\Utils.dll
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\bin\Debug\Utils.pdb
+E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\BUS\obj\Debug\BUS.csproj.Up2Date

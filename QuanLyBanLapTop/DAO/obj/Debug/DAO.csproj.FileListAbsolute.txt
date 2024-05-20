@@ -31,6 +31,6 @@ E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\bin\Debug\D
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\bin\Debug\DTO.pdb
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
-E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\obj\Debug\DAO.csproj.CopyComplete
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\obj\Debug\DAO.dll
 E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\obj\Debug\DAO.pdb
+E:\Workspace\C#\myProject\DoAnC-_QuanLyBanLapTop\QuanLyBanLapTop\DAO\obj\Debug\DAO.csproj.Up2Date
